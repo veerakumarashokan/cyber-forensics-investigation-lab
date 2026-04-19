@@ -1,2 +1,5 @@
-# cyber-forensics-investigation-lab
-Practical cyber forensics and investigation lab covering disk analysis, memory forensics, network analysis, and OSINT analysis.
+# Cyber Forensics Investigation Lab
+
+This repository documents practical work in digital forensics and cyber investigation, including disk analysis, memory analysis, and OSINT-based investigations.
+
+Further documentation and case-based work will be added progressively.
