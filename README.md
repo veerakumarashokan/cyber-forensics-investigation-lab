@@ -21,11 +21,11 @@ To develop practical forensic investigation skills by analyzing evidence, recons
 
 ## Repository Structure
 
-- cases/ – Investigation-based case studies  
-- labs/ – Environment setup and datasets  
-- notes/ – Concepts and reference material  
-- tools/ – Tools and usage documentation  
-- journal/ – Progress and observations  
+- cases – Investigation-based case studies  
+- labs – Environment setup and datasets  
+- notes – Concepts and reference material  
+- tools – Tools and usage documentation  
+- journal – Progress and observations  
 
 ---
 
