@@ -1,22 +1,24 @@
-# Labs
+# Tool Setup
 
-This section contains environment setup and datasets used for forensic investigations.
+This section documents the setup and configuration of forensic tools.
 
 ## Purpose
 
-- Prepare investigation environments  
-- Store datasets for analysis  
-- Support reproducible workflows  
+- Install required tools  
+- Configure environments  
+- Ensure tools are ready for analysis  
 
 ---
 
-## Contents
+## Tools
 
-- tool-setup – Installation and configuration of tools  
-- datasets – Files and data used in investigations  
+- Autopsy  
+- FTK Imager  
+- Wireshark  
+- NetworkMiner  
 
 ---
 
 ## Goal
 
-To maintain a structured and repeatable lab environment.
+To maintain a consistent and ready-to-use forensic toolkit.
